@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Minecraft-Library-of-Babel-Encoder.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Minecraft-Library-of-Babel-Encoder.github.io/static/js/main.e951346e.js",
+    "static/js/787.4e0ac700.chunk.js": "/Minecraft-Library-of-Babel-Encoder.github.io/static/js/787.4e0ac700.chunk.js",
+    "static/media/logo.svg": "/Minecraft-Library-of-Babel-Encoder.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Minecraft-Library-of-Babel-Encoder.github.io/index.html",
+    "main.073c9b0a.css.map": "/Minecraft-Library-of-Babel-Encoder.github.io/static/css/main.073c9b0a.css.map",
+    "main.e951346e.js.map": "/Minecraft-Library-of-Babel-Encoder.github.io/static/js/main.e951346e.js.map",
+    "787.4e0ac700.chunk.js.map": "/Minecraft-Library-of-Babel-Encoder.github.io/static/js/787.4e0ac700.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e951346e.js"
+  ]
+}
